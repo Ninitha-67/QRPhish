@@ -26,6 +26,17 @@ QRPhish is a cybersecurity educational toolkit designed to demonstrate how QR co
 - Pillow
 
 ---
+## 📸 Screenshots
+
+### ✅ QR Code Generated
+![QR Code](screenshots/qr_code.png)
+
+### ✅ Fake Instagram Login Page
+![Login Page](screenshots/login_page.png)
+
+### ✅ Console Output
+![Console](screenshots/console_output.png)
+
 
 ## 🛠️ Setup Instructions
 
