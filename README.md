@@ -33,14 +33,16 @@ QRPhish is a cybersecurity educational toolkit designed to demonstrate how QR co
 ## 📸 Screenshots
 
 ### QR Code
-![QR Code](https://github.com/Ninitha-67/QRPhish/blob/main/qrphish%20screenshots/qr_code.png)
+![QR Code](qr_code.png)
 
 ### Fake Login Page
-![Login Page](https://github.com/Ninitha-67/QRPhish/blob/main/qrphish%20screenshots/login_page.jpg)
+![Login Page](login_page.jpg)
 
 ### Captured Credentials
-![Console Output](https://github.com/Ninitha-67/QRPhish/blob/main/qrphish%20screenshots/console_output.png)
+![Console Output](console_output.png)
 
+## 💡 **Educational Purpose Only**
+This project is intended for educational use to demonstrate cybersecurity awareness and social engineering tactics. Do not use it for malicious purposes. 
 
 ## 🛠️ Setup Instructions
 
