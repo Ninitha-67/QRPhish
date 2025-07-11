@@ -1,26 +1,22 @@
-# Python-specific ignores
+# Virtual environment folders
+venv/
+ENV/
+env/
+
+# Python cache and compiled files
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Virtual environments
-venv/
-ENV/
-env/
-
-# macOS system files
+# OS and IDE-specific files
 .DS_Store
-
-# Windows system files
 Thumbs.db
-
-# IDE files
 .vscode/
 .idea/
 
 # Environment variables
 .env
 
-# QR image (optional if generated every run)
+# Optional: QR image if you generate dynamically
 phishing_qr.png
