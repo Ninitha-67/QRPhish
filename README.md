@@ -27,6 +27,8 @@ QRPhish is a cybersecurity educational toolkit designed to demonstrate how QR co
 
 ---
 
+
+
 ## 🛠️ Setup Instructions
 
 1. **Clone the repo**
