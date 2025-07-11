@@ -30,12 +30,10 @@ QRPhish is a cybersecurity educational toolkit designed to demonstrate how QR co
 
 ---
 
-## 📸 Screenshots
-
-[screenshots](qrphish screenshots)
-
 ## 💡 **Educational Purpose Only**
 This project is intended for educational use to demonstrate cybersecurity awareness and social engineering tactics. Do not use it for malicious purposes. 
+
+---
 
 ## 🛠️ Setup Instructions
 
